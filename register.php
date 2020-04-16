@@ -65,7 +65,7 @@ p{
 	</div>
 	<div class="mt-4">
 				<div class="d-flex  links">
-					Already a member? <a href="/projects/login/login.php" class="ml-2">login</a>
+					Already a member? <a href="http://dcastor-developer.com/projects/login/login.php" class="ml-2">login</a>
 				</div>
 	</form>
 	
